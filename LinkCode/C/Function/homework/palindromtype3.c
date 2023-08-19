@@ -21,7 +21,7 @@ int main()
 }
 int palindrom()
 {
-	int n,sum=0,temp,r;
+	int n,sum,temp,r;
 	printf("\n Enter any number: ");
 	scanf("\n %d",&n);
 
